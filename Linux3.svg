@@ -1,0 +1,48 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 20010904//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd">
+<!-- Created using Karbon, part of Calligra: http://www.calligra.org/karbon -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="612.001pt" height="792.001pt">
+<defs>
+  <radialGradient id="gradient0" gradientTransform="" gradientUnits="objectBoundingBox" cx="0.29463122000" cy="0.32123706000" fx="0.64978419000" fy="0.67107272000" r="0.89603224000" spreadMethod="reflect">
+   <stop stop-color="#000000" offset="0.28000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#645d5d" offset="0.68000000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <radialGradient id="gradient1" gradientTransform="" gradientUnits="objectBoundingBox" cx="0.52045763000" cy="0.54172613000" fx="0.52045763000" fy="0.54172613000" r="1.24536533000" spreadMethod="reflect">
+   <stop stop-color="#000000" offset="0.28187300000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#fff300" offset="0.91454000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+  <linearGradient id="gradient2" gradientTransform="" gradientUnits="objectBoundingBox" x1="0.89791823000" y1="0.71748140000" x2="0.82469990000" y2="-0.37337860000" spreadMethod="reflect">
+   <stop stop-color="#ffb300" offset="0.14000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#fff300" offset="0.70000000000" stop-opacity="1.00000000000"/>
+  </linearGradient>
+  <linearGradient id="gradient3" gradientTransform="" gradientUnits="objectBoundingBox" x1="0.00000000000" y1="0.50000000000" x2="1.00000000000" y2="1.00000000000" spreadMethod="pad">
+   <stop stop-color="#ff0000" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#ffff00" offset="0.52555900000" stop-opacity="1.00000000000"/>
+  </linearGradient>
+  <linearGradient id="gradient4" gradientTransform="" gradientUnits="objectBoundingBox" x1="0.99915628000" y1="0.40647194000" x2="0.00181013000" y2="0.61041575000" spreadMethod="pad">
+   <stop stop-color="#ff0000" offset="0.00000000000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#ffff00" offset="0.65256700000" stop-opacity="1.00000000000"/>
+  </linearGradient>
+  <radialGradient id="gradient5" gradientTransform="" gradientUnits="objectBoundingBox" cx="0.52045763000" cy="0.54172613000" fx="0.52045763000" fy="0.54172613000" r="1.24536533000" spreadMethod="reflect">
+   <stop stop-color="#000000" offset="0.28187300000" stop-opacity="1.00000000000"/>
+   <stop stop-color="#fff300" offset="0.91454000000" stop-opacity="1.00000000000"/>
+  </radialGradient>
+ </defs>
+<g id="Layer">
+  <path id="shape0" transform="translate(16.0453, 81.1145)" fill="url(#gradient0)" fill-rule="evenodd" stroke="#000000" stroke-width="1.25000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M577.717 364.173C547.931 177.21 520.879 21.6571 369.832 0C205.992 0 150.735 206.257 150.392 347.329C17.5726 521.52 -89.1287 659.113 110.275 543.451C112.204 747.375 247.054 888.205 374.811 888.205C508.239 888.205 636.24 734.595 615.758 539.828C740.265 630.188 810.076 636.506 577.717 364.173Z"/>
+  <path id="shape1" transform="matrix(1 0 0.00355741 1 155.797 358.069)" fill="#ffffff" fill-rule="evenodd" stroke="#000000" stroke-width="1.25000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M415.476 280.143C415.476 125.424 322.469 9.4738e-15 207.738 0C93.0076 -9.4738e-15 1.40505e-14 125.424 0 280.143C-1.40505e-14 434.862 93.0076 560.287 207.738 560.287C322.469 560.287 415.476 434.862 415.476 280.143"/>
+  <path id="shape2" transform="matrix(1 0 0.00355741 1 372.137 244.684)" fill="#ffffff" fill-rule="evenodd" stroke="#000000" stroke-width="6.29292428760" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M153.336 85.8395C153.336 38.4317 119.01 2.90289e-15 76.6679 0C34.3254 -2.90289e-15 5.18546e-15 38.4317 0 85.8395C-5.18546e-15 133.247 34.3254 171.679 76.6679 171.679C119.01 171.679 153.336 133.247 153.336 85.8395"/>
+  <path id="shape3" transform="matrix(1 0 0.00355741 1 229.769 220.357)" fill="#ffffff" fill-rule="evenodd" stroke="#000000" stroke-width="6.29292428760" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M144.316 115.253C144.316 51.6006 112.01 3.89759e-15 72.158 0C32.3062 -3.89759e-15 4.88043e-15 51.6006 0 115.253C-4.88043e-15 178.906 32.3062 230.506 72.158 230.506C112.01 230.506 144.316 178.906 144.316 115.253"/>
+  <path id="shape4" transform="matrix(1 0 0.00355741 1 390.417 312.433)" fill="url(#gradient1)" fill-rule="evenodd" stroke="#000000" stroke-width="1.25000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M43.8102 40.8188C43.8102 18.2752 34.003 1.3804e-15 21.9051 0C9.80725 -1.3804e-15 1.48156e-15 18.2752 0 40.8188C-1.48156e-15 63.3624 9.80725 81.6376 21.9051 81.6376C34.003 81.6376 43.8102 63.3624 43.8102 40.8188"/>
+  <path id="shape5" transform="translate(297.586, 386.057)" fill="url(#gradient2)" fill-rule="evenodd" stroke="#000000" stroke-width="7.71024957760" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M127.822 72.1698C187.533 12.0747 116.248 1.23126 67.6962 0.039024C34.7632 -1.15322 -27.2249 25.0199 13.2896 72.1698C35.5067 97.8595 49.5125 120.456 70.7831 135.955C95.8053 108.533 105.797 100.244 127.822 72.1698Z"/>
+  <path id="shape6" transform="translate(94.1748, 824.121)" fill="url(#gradient3)" fill-rule="evenodd" stroke="#000000" stroke-width="7.71024957760" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M288.706 152.405C293.137 82.5992 223.658 4.85536 143.403 0.19741C63.1478 -4.46056 -15.8072 74.071 2.73356 155.358C57.1811 159.231 54.8016 155.743 135.056 160.401C219.48 156.844 242.608 160.59 288.706 152.405Z"/>
+  <path id="shape7" transform="translate(420.95, 826.296)" fill="url(#gradient4)" fill-rule="evenodd" stroke="#000000" stroke-width="7.71024957760" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M288.929 149.752C292.525 80.4566 222.126 3.99104 141.825 0.136109C61.5258 -3.71879 -16.4796 74.9451 3.03068 155.413C57.5172 158.735 55.0963 155.297 135.397 159.152C219.765 154.817 242.936 158.313 288.929 149.752Z"/>
+  <path id="shape8" transform="matrix(1 0 0.00355741 1 306.784 298.186)" fill="url(#gradient5)" fill-rule="evenodd" stroke="#000000" stroke-width="1.25000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M53.4951 48.9382C53.4951 21.9104 41.5198 1.65498e-15 26.7476 0C11.9753 -1.65498e-15 1.80908e-15 21.9104 0 48.9382C-1.80908e-15 75.966 11.9753 97.8764 26.7476 97.8764C41.5198 97.8764 53.4951 75.966 53.4951 48.9382"/>
+ </g><g id="Number"/><g id="assa">
+  <path id="shape9" transform="translate(134.315, 105.261)" fill="#353535" fill-rule="evenodd" stroke="#000000" stroke-width="1.25000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M500.52 85.228C456.912 32.5442 389.572 5.28513 252.713 5.28513C105.439 -3.60701 -27.4625 -13.3274 4.90702 85.228C53.7295 136.62 123.098 157.404 251.781 175.323C444.219 224.448 530.539 161.098 500.52 85.228"/>
+  <path id="shape10" transform="translate(234.999, 70.6413)" fill="#353535" fill-rule="evenodd" stroke="#000000" stroke-width="1.25000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M0 0L292.651 0L292.651 98.1134C212.382 154.463 119.454 169.537 0 98.1134Z"/>
+  <path id="shape11" transform="translate(234.999, 14.7895)" fill="#353535" fill-rule="evenodd" stroke="#000000" stroke-width="1.25000000000" stroke-linecap="square" stroke-linejoin="miter" stroke-miterlimit="2.00000000000" d="M289.416 56.8492C289.416 25.4522 224.628 1.92251e-15 144.708 0C64.7879 -1.92251e-15 9.78737e-15 25.4522 0 56.8492C-9.78737e-15 88.2461 64.7879 113.698 144.708 113.698C224.628 113.698 289.416 88.2461 289.416 56.8492"/>
+ </g><g id="layer0">
+  <text id="shape0" fill="#000000" font-family="ComicSans" font-size="20.00000000000pt" x="0.00000000000pt" y="14.84375000000pt" transform="matrix(9.4309 0 0 7.62209 318.383 613.889)"><tspan x="0"  y="18.5547">3</tspan></text>
+ </g>
+</svg>
